@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ApplicationMacroPay</string>
+    <string name="urlLogin">https://www.testandroid.macropay.com.mx</string>
+</resources>
